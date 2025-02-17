@@ -4,7 +4,7 @@
   "symbol": "SNOW",
   "name": "Snow",
   "decimals": 9,
-  "logoURI": "https://i.ibb.co/spgtzzb9/logosahdow.png",
+  "logoURI": "https://raw.githubusercontent.com/rashors/token-list/d0e4caa6a2ab8c0f450250c241e58ebb188b4e27/assets/mainnet/logosahdow.png",
   "tags": ["meme-token"],
   "extensions": {
     "website": "https://www.snowcartel.xyz/",
